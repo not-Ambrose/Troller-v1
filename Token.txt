@@ -1,0 +1,5 @@
+Token:
+
+NzEyMjExODg1ODA5ODYwNjA4.XsOSHA.Mx1bC_ObzhXXOsKEVDDQ7QJ4mOA
+
+Invite link for bot to sever: https://discordapp.com/oauth2/authorize?client_id=712211885809860608&permissions=8&scope=bot
