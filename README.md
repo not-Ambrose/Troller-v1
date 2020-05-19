@@ -1,2 +1,2 @@
 # Troller-v1
-Troller
+Troller is a bot that allows you to spam discord
